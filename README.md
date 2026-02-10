@@ -49,6 +49,6 @@ Currently focused on building machine learning fundamentals.
 
 ---
 
-## 👀 Profile Viewa
+## 👀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=rubansamuel&label=Profile%20Views&color=0e75b6&style=flat" />
